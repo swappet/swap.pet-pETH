@@ -1,2 +1,11 @@
 node_modules/
 build/
+weth/
+
+
+# OpenZeppelin
+.openzeppelin/dev-*.json
+.openzeppelin/.session
+
+# eth address and infura keys
+.secrets.json
